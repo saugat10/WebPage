@@ -1,0 +1,30 @@
+body .head{
+    background-color: rgb(245, 242, 80);
+    height: 300px;
+}
+
+body a{
+    text-align: center; 
+    padding-left: 10px; 
+    padding-top: 10px;
+    color: inherit;
+}
+
+body h1{
+    padding-top: 10px; 
+    text-align: center;
+}
+a:link { text-decoration: none; }
+
+
+a:visited { text-decoration: none; }
+
+
+a:hover { text-decoration: none; }
+
+
+a:active { text-decoration: none; }
+
+.container{
+    padding-top: 25px;
+}
